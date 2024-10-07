@@ -15,3 +15,5 @@ Concrete Strength Predictor: Machine Learning Models for Predicting Compressive 
 "Workation Price Forecast: Utilizing Data Insights for Efficient Remote Work Planning 'Hackathon Machinehack'."[open](https://github.com/Harsh-Baghel001/Supervised-Learning-Regression-/blob/main/Workation%20Price%20Prediction.ipynb)
 
 "Old Vehicle Price Prediction" : From Unclean Data to Crystal-Clear Insights in Old Vehicle Price Prediction. [open](https://github.com/Harsh-Baghel001/Supervised-Learning-Regression-/blob/main/Vehical%20Price%20Prediction.ipynb)
+
+"Flight Fare Prediction: Enhancing Travel Decisions with Predictive Analytics"[Open](https://github.com/Harsh-Baghel001/Supervised-Learning-Regression-/blob/main/Flight%20Ticket%20Price%20Prediction.ipynb)
