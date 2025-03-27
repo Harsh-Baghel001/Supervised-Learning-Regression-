@@ -19,3 +19,5 @@ Concrete Strength Predictor: Machine Learning Models for Predicting Compressive 
 "Flight Fare Prediction: Enhancing Travel Decisions with Predictive Analytics"[Open](https://github.com/Harsh-Baghel001/Supervised-Learning-Regression-/blob/main/Flight%20Ticket%20Price%20Prediction.ipynb)
 
 "Water Potability Prediction: Hackathon Fractal Data Science Hiring"[Open](https://github.com/Harsh-Baghel001/Supervised-Learning-Regression-/blob/main/Water%20Potability%20Prediction.ipynb)
+
+"Loan Eligibility Prediction for Indian Demographics: Credit Risk Assessment Using Machine Learning"[Open](https://github.com/Harsh-Baghel001/Supervised-Learning-Regression-/blob/main/Credit%20Profie%20Score.ipynb)
